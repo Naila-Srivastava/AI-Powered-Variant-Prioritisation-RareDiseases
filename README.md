@@ -174,7 +174,7 @@ variant_project/
 │            
 │── 01_data_exploration.ipynb      # Full pipeline notebook
 ├── models/
-│   └── rf_variant_classifier.pkl  # Trained Random Forest model
+│   └── rf_variant_classifier.pkl  # Trained Random Forest model (too big to upload)
 └── results/
     ├── model_performance.png      # ROC curve, confusion matrix, feature importance
     ├── vus_distribution.png       # VUS score distribution & top diseases
