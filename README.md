@@ -3,11 +3,12 @@
 > *Extending a WES variant calling pipeline with machine learning to intelligently prioritise Variants of Uncertain Significance (VUS) for rare disease diagnostics*.
 
 <p align="center">
-![Python](https://img.shields.io/badge/Python-3.14-blue?style=flat-square&logo=python)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?style=flat-square)
-![ClinVar](https://img.shields.io/badge/Data-ClinVar%20GRCh38-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+  <img src="https://img.shields.io/badge/Python-3.14-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Scikit--learn-ML-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data-ClinVar%20GRCh38-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
 </p>
+
 ---
 
 ## Project Overview
