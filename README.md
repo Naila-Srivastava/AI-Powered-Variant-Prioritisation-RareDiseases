@@ -155,7 +155,7 @@ The model was trained on a balanced dataset of 100,000 variants (50K Pathogenic,
 
 ---
 
-References
+## References
 
 - **Python 3.14:** Python Software Foundation. (2025). Python 3.14.3. [https://www.python.org](https://www.python.org)
 - **Visual Studio Code:** Microsoft. (2024). Visual Studio Code (VS Code). [https://code.visualstudio.com](https://code.visualstudio.com)
