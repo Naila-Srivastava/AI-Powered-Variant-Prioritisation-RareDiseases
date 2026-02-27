@@ -170,16 +170,15 @@ The model was trained on a balanced dataset of 100,000 variants (50K Pathogenic,
 
 ```
 variant_project/
-├── data                           # ClinVar GRCh38 variant database
+├── data                           # ClinVar GRCh38 variant database (too big to upload)
 │            
-├── notebooks/
-│   └── 01_data_exploration.ipynb  # Full pipeline notebook
+│── 01_data_exploration.ipynb      # Full pipeline notebook
 ├── models/
 │   └── rf_variant_classifier.pkl  # Trained Random Forest model
 └── results/
     ├── model_performance.png      # ROC curve, confusion matrix, feature importance
     ├── vus_distribution.png       # VUS score distribution & top diseases
-    └── vus_prioritised.csv        # Full ranked VUS output
+    └── vus_prioritised.csv        # Full ranked VUS output (too big to upload)
 ```
 
 ---
