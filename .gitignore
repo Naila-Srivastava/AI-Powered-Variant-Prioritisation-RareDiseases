@@ -1,0 +1,66 @@
+# ======================
+# Data Files (too large for GitHub)
+# ======================
+data/
+*.vcf
+*.bam
+*.bam.bai
+*.sam
+*.bed
+*.csv
+*.tsv
+
+# Keep results folder but ignore large files
+results/*.csv
+
+# ======================
+# Model Files
+# ======================
+models/*.pkl
+models/*.joblib
+*.pkl
+*.joblib
+
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ======================
+# Jupyter Notebooks
+# ======================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ======================
+# VS Code
+# ======================
+.vscode/
+*.code-workspace
+
+# ======================
+# OS Files
+# ======================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ======================
+# Logs & Temp
+# ======================
+*.log
+*.tmp
+*.temp
+.cache/
